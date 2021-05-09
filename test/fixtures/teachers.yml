@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Teacher_name: MyString
+  Teacher_address: MyString
+
+two:
+  Teacher_name: MyString
+  Teacher_address: MyString
